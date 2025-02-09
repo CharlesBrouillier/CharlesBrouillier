@@ -9,7 +9,7 @@ Actuellement, je travaille en tant que développeur Java.
 
 💼 **Expérience** : 
 - 3 années d'alternance Mainframe chez Matmut/BNP Paribas Cardif IARD (2018-2021) 
-- 1 année et demie chez Apside (pour le compte d'Euro Information Dévelopmments) (2021-2022)  
+- 1 année et demie chez Apside (pour le compte d'Euro Information Développements) (2021-2022)  
 - Actuellement développeur Java chez Infotel (pour le compte d'Oney) depuis 2023  
 
 
