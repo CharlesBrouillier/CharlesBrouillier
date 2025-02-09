@@ -1,7 +1,6 @@
 # Charles Brouillier - Développeur Java
 
-Bienvenue sur mon profil GitHub ! Je suis Charles Brouillier, ingénieur développeur diplômé de l'ESIGELEC et passionné par le développement Java. 
-Actuellement, je travaille en tant que développeur Java.
+Bienvenue sur mon profil GitHub ! Je suis Charles Brouillier, ingénieur développeur diplômé de l'ESIGELEC et passionné par le développement Java.
 
 ## À propos de moi
 
