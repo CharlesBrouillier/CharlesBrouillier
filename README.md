@@ -29,7 +29,7 @@ Bienvenue sur mon profil GitHub ! Je suis Charles Brouillier, ingénieur dévelo
 
 Voici quelques projets récents sur lesquels j'ai travaillé :
 
-- **[GameOn](https://charlesbrouillier.fr/gameon)** : Un projet utilisant **Nuxt 3** pour recommander des jeux vidéo selon les préférences des utilisateurs.
+- **[GameOn](https://charlesbrouillier.fr/gameon)** : Un projet utilisant **Nuxt 3** pour recommander des jeux de société selon les préférences des utilisateurs.
 
 ## Ce que je recherche
 
