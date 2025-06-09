@@ -7,10 +7,9 @@ Bienvenue sur mon profil GitHub ! Je suis Charles Brouillier, ingénieur dévelo
 🎓 **Formation** : Ingénieur en informatique - ESIGELEC (2021)  
 
 💼 **Expérience** : 
-- 3 années d'alternance Mainframe chez Matmut/BNP Paribas Cardif IARD (2018-2021) 
-- 1 année et demie chez Apside (pour le compte d'Euro Information Développements) (2021-2022)  
-- Actuellement développeur Java chez Infotel (pour le compte d'Oney) depuis 2023  
-
+- Septembre 2018- Septembre 2021 : Alternance Mainframe chez Matmut/BNP Paribas Cardif IARD 
+- Septembre 2021- Décembre 2022 : Développeur C# chez Euro Information Développements (pour le compte d'Apside)
+- Janvier 2023 - Mai 2025 : Développeur Java chez Oney (pour le compte d'Infotel)
 
 🎯 **Objectif** : 
 
@@ -21,9 +20,9 @@ Bienvenue sur mon profil GitHub ! Je suis Charles Brouillier, ingénieur dévelo
 
 - Langages : Java  
 - Frameworks : Spring Boot, Hibernate  
-- Frontend : Vue.Js, Angular   
-- Gestion de projet : Agile (Scrum, Kanban)  
-- Outils : Docker, Jenkins, Git, Maven, PostgreSQL, etc.
+- Frontend : Vue.Js, Angular
+- BDD : PostgreSQL, MongoDB
+- Outils : Docker, Jenkins, Git, Maven, etc.
 
 ## Projets
 
