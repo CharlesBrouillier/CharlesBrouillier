@@ -1,6 +1,6 @@
 # Charles Brouillier - Développeur Java
 
-Bienvenue sur mon profil GitHub ! Je suis Charles Brouillier, ingénieur développeur diplômé de l'ESIGELEC et passionné par le développement Java.
+Je m'appelle Charles Brouillier, ingénieur développeur diplômé de l'ESIGELEC et passionné par le développement Java.
 
 ## À propos de moi
 
@@ -19,10 +19,10 @@ Bienvenue sur mon profil GitHub ! Je suis Charles Brouillier, ingénieur dévelo
 🔧 **Compétences** :  
 
 - Langages : Java  
-- Frameworks : Spring Boot, Hibernate  
-- Frontend : Vue.Js, Angular
+- Frameworks : Spring, Hibernate  
+- Frontend : Vue.Js
 - BDD : PostgreSQL, MongoDB
-- Outils : Docker, Jenkins, Git, Maven, etc.
+- Outils : Docker, Jenkins, Azure, Git, Maven, etc.
 
 ## Projets
 
@@ -44,4 +44,4 @@ Je cherche des missions ou des projets qui me permettent d'explorer des technolo
 
 - [LinkedIn](https://www.linkedin.com/in/charles-brouillier/)
 
-Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter pour toute collaboration ou question.  
+N'hésitez pas à me contacter pour toute collaboration ou question.  
